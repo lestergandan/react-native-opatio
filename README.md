@@ -189,8 +189,8 @@ Export your Data to Excel or Print from your smartphone.
 
 #### 1) Clone & Install Dependencies
 
-- 1.1) `git clone https://github.com/funnyjerry/react-native-expo-opatio-app.git`
-- 1.2) `cd react-native-expo-opatio-app` - cd into your newly created project directory.
+- 1.1) `git clone https://github.com/lestergandan/react-native-opatio.git`
+- 1.2) `cd react-native-opatio` - cd into your newly created project directory.
 - 1.3) Install NPM packages with `yarn install`
         **Note:** NPM has issues with React Native so `yarn` is recommended over `npm`.
 #### 2) Start your app
@@ -221,4 +221,4 @@ Export your Data to Excel or Print from your smartphone.
 
 ## :eyes: **Version**
 - [ ] React-Native 
-- [x] Expo 35
+- [x] Expo 41

@@ -19,11 +19,11 @@ export default class LotesTab extends Component {
         return (
             <View style={Cstyles.container}>
 
-                <HEADER.NormalIcon back={colors.RED} icon={<ICON.IconExcWhite />}/>
+                <HEADER.NormalIcon back={colors.RED} icon={<ICON.IconExcWhite />} />
 
                 <ScrollView>
 
-                    <Map region={CONFIG.region}/>
+                    <Map region={CONFIG.region} />
 
                     <View style={styles.searchView}>
                         <Text style={text.t_15_500_ff}>{'Fecha: 10/03/2018        Hora: 15:35 hs'}</Text>

@@ -14,7 +14,7 @@ import * as CONFIG from '../../common/config'
 
 export default class CultivosDetail extends React.Component {
 
-    constructor(){
+    constructor() {
         super();
         this.state = {
             campo: 'Campo',
@@ -32,28 +32,28 @@ export default class CultivosDetail extends React.Component {
         return (
             <View style={Cstyles.container}>
 
-                <HEADER.NormalIcon back={colors.GREEN2}/>
+                <HEADER.NormalIcon back={colors.GREEN2} />
 
                 <ScrollView>
                     <View style={{ paddingBottom: p(30), backgroundColor: colors.GREEN2 }}>
 
                         <Text style={[text.t_32_700_ff_t30, { textAlign: 'center' }]}>{'Agregar cultivos'}</Text>
 
-                        <DROPDOWN.Large 
-                            title={campo} 
-                            onClick={()=>Actions.dropdown({
+                        <DROPDOWN.Large
+                            title={campo}
+                            onClick={() => Actions.dropdown({
                                 dropdown: CONFIG.create1,
-                                update: (i) => { 
+                                update: (i) => {
                                     this.setState({ campo: i.name })
                                 }
                             })}
                         />
 
-                        <DROPDOWN.Large 
-                            title={lote} 
-                            onClick={()=>Actions.dropdown({
+                        <DROPDOWN.Large
+                            title={lote}
+                            onClick={() => Actions.dropdown({
                                 dropdown: CONFIG.create1,
-                                update: (i) => { 
+                                update: (i) => {
                                     this.setState({ lote: i.name })
                                 }
                             })}
@@ -65,11 +65,11 @@ export default class CultivosDetail extends React.Component {
 
                         <Text style={text.t_19_500_00}>{'Cultivo estival'}</Text>
 
-                        <DROPDOWN.Small 
-                            title={summer1} 
-                            onClick={()=>Actions.dropdown({
+                        <DROPDOWN.Small
+                            title={summer1}
+                            onClick={() => Actions.dropdown({
                                 dropdown: CONFIG.assign,
-                                update: (i) => { 
+                                update: (i) => {
                                     this.setState({ summer1: i.name })
                                 }
                             })}
@@ -77,21 +77,21 @@ export default class CultivosDetail extends React.Component {
 
                         <Text style={[text.t_19_500_00, { marginTop: p(16) }]}>{'Cultivo invernal'}</Text>
 
-                        <DROPDOWN.Small 
-                            title={summer2} 
-                            onClick={()=>Actions.dropdown({
+                        <DROPDOWN.Small
+                            title={summer2}
+                            onClick={() => Actions.dropdown({
                                 dropdown: CONFIG.assign,
-                                update: (i) => { 
+                                update: (i) => {
                                     this.setState({ summer2: i.name })
                                 }
                             })}
                         />
 
-                        <DROPDOWN.Small 
-                            title={bell} 
-                            onClick={()=>Actions.dropdown({
+                        <DROPDOWN.Small
+                            title={bell}
+                            onClick={() => Actions.dropdown({
                                 dropdown: CONFIG.bell,
-                                update: (i) => { 
+                                update: (i) => {
                                     this.setState({ bell: i.name })
                                 }
                             })}

@@ -7,7 +7,7 @@ import { images } from '../../../common/images';
 import { p } from '../../../common/normalize';
 import styles from './styles'
 import { Actions } from 'react-native-router-flux';
-import  RenderItem  from './renderItem';
+import RenderItem from './renderItem';
 
 export default class AlarmasDetail extends React.Component {
 
@@ -24,8 +24,8 @@ export default class AlarmasDetail extends React.Component {
             <Text>{'Fecha: 23/04/18'}</Text>
             <Entypo name={'chevron-down'} size={24} color={colors.GREY4} />
           </View>
-          <TouchableOpacity onPress={()=>Actions.machinesettings()}>
-             <Image source={images.settings} style={{ width: p(26), height: p(27), marginHorizontal: p(10)}} />
+          <TouchableOpacity onPress={() => Actions.machinesettings()}>
+            <Image source={images.settings} style={{ width: p(26), height: p(27), marginHorizontal: p(10) }} />
           </TouchableOpacity>
         </View>
 
@@ -37,7 +37,7 @@ export default class AlarmasDetail extends React.Component {
           {
             TAREAS.map((item, index) => {
               return (
-                <RenderItem key={index} item={item}/>
+                <RenderItem key={index} item={item} />
               );
             })
           }
@@ -48,7 +48,7 @@ export default class AlarmasDetail extends React.Component {
           {
             TAREAS2.map((item, index) => {
               return (
-                <RenderItem key={index} item={item}/>
+                <RenderItem key={index} item={item} />
               );
             })
           }
@@ -59,7 +59,7 @@ export default class AlarmasDetail extends React.Component {
           {
             TAREAS3.map((item, index) => {
               return (
-                <RenderItem key={index} item={item}/>
+                <RenderItem key={index} item={item} />
               );
             })
           }
@@ -72,10 +72,10 @@ export default class AlarmasDetail extends React.Component {
 
 const Cstyles = StyleSheet.create({
   itemView: {
-    flexDirection: 'row', 
-    alignItems: 'center', 
-    backgroundColor: colors.GREY3, 
-    paddingTop: p(12), 
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: colors.GREY3,
+    paddingTop: p(12),
     paddingLeft: p(20)
   },
   titleImg: {
