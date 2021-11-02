@@ -29,123 +29,123 @@ The Farming App which puts Farm Data Management and Farm Accounting /Finance rec
 
 <p align="center">
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/1.jpg" alt="2">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/1.jpg" alt="2">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/2.jpg" alt="2">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/2.jpg" alt="2">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/3.jpg" alt="3">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/3.jpg" alt="3">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/4.jpg" alt="4">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/4.jpg" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/5.jpg" alt="51">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/5.jpg" alt="51">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/6.jpg" alt="6">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/6.jpg" alt="6">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/7.jpg" alt="7">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/7.jpg" alt="7">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/8.jpg" alt="8">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/8.jpg" alt="8">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/9.jpg" alt="9">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/9.jpg" alt="9">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/10.jpg" alt="4">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/10.jpg" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/11.jpg" alt="5">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/11.jpg" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/12.jpg" alt="6">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/12.jpg" alt="6">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/13.jpg" alt="4">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/13.jpg" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/14.jpg" alt="5">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/14.jpg" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/15.jpg" alt="6">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/15.jpg" alt="6">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/16.jpg" alt="4">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/16.jpg" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/17.jpg" alt="5">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/17.jpg" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/18.jpg" alt="6">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/18.jpg" alt="6">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/19.jpg" alt="4">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/19.jpg" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/20.jpg" alt="5">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/20.jpg" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/21.jpg" alt="6">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/21.jpg" alt="6">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/22.jpg" alt="4">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/22.jpg" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/23.jpg" alt="5">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/23.jpg" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/24.jpg" alt="6">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/24.jpg" alt="6">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/25.jpg" alt="4">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/25.jpg" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/26.jpg" alt="5">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/26.jpg" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/27.jpg" alt="6">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/27.jpg" alt="6">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/28.jpg" alt="4">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/28.jpg" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/29.jpg" alt="5">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/29.jpg" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="430" src="screenshots/30.jpg" alt="6">
+    <img width="230" style="border-radius: 5px" height="430" src="screenshots/30.jpg" alt="6">
   </kbd>
 </p>
 
